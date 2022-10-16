@@ -12,7 +12,9 @@ The ride-sharing data taken into account includes:
 
 
 ## Results
+
 ![Summary_df](https://github.com/Aleahkita/PyBer_Analysis/blob/main/summary_ride_share_df.png)
+
 Urban cities had the most rides (1,625 total rides). This is 13 times more than Rural and 2.6 times more than Suburban total rides (which had 125 and 625 total rides respectively). 
 
 A similar trend can be seen with the number of drivers which increases as you look from Rural (78 drivers) to Suburban (490 drivers) to Urban (2,405 drivers). However, the number of total drivers is less than total rides in Rural and Suburban cities, in the case of Urban cities there are significantly more drivers compared to toal rides. This points to a disparity between number of drivers and city type, possibly due to a higher/denser population typically found in Urban areas and a lower population in Suburban and Rural areas.
@@ -24,8 +26,13 @@ Looking at average fare per ride, the highest average comes from Rural cities ($
 When looking at average fare per driver, a similar trend occurs as seen in average fare per ride, where the highest average comes from Rural cities ($55.49) and decreases from Suburban ($39.50) to Urban ($16.57). This results from the stark difference in number of drivers per city type.
 
 
-(insert image of multiple-line chart)
+![Line_Chart](https://github.com/Aleahkita/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
 Looking at the line chart of total fare by city type, throughout the span of January through the end of April, there are similar patterns between city type that we see from looking at the summary DataFrame. Total fare increases from Rural to Suburban to Urban and is shown consistently in that order when compared weekly. 
 
 
 ## Summary
+
+The disparity between number of total drivers in Urban vs Rural and Suburban city types could be addressed by trying to increase the number of drivers in Rural and Suburban areas. Further analysis could be done to identify specific cities that would be good candidates, then resources could be allocated to advertising the company and increasing incentive for becoming a driver. Boosting the number of drivers to help lower cost of fares would hopefully result in people switching to PyBer's ride-sharing compared to other methods of transportation. 
+The disparity between total number of rides is a similar issue when comparing Rural and Urban city types. To address this, PyBer could offer promotions in Rural areas to drive up the number of rides and bring awareness of its services to those communities. 
+When considering the disparity between total fares in Suburban and Urban city types, we know from the data that Suburban areas generate about half of the total fares of Urban areas. We also know that Suburban areas are fast-growing and are typically located on the outskirts of Urban areas. To bridge the gap between the profit of the two city types we could increase awareness of PyBer's services through targeted ads/media platforms as well as seek partnership with delivery services. Doing so would hopefully increase the number of users by providing them with an additional service as being in a Suburban location might require a commute for certain goods. 
