@@ -12,7 +12,7 @@ The ride-sharing data taken into account includes:
 
 
 ## Results
-(insert image of summary dataframe)
+![Summary_df](https://github.com/Aleahkita/PyBer_Analysis/blob/main/summary_ride_share_df.png)
 Urban cities had the most rides (1,625 total rides). This is 13 times more than Rural and 2.6 times more than Suburban total rides (which had 125 and 625 total rides respectively). 
 
 A similar trend can be seen with the number of drivers which increases as you look from Rural (78 drivers) to Suburban (490 drivers) to Urban (2,405 drivers). However, the number of total drivers is less than total rides in Rural and Suburban cities, in the case of Urban cities there are significantly more drivers compared to toal rides. This points to a disparity between number of drivers and city type, possibly due to a higher/denser population typically found in Urban areas and a lower population in Suburban and Rural areas.
