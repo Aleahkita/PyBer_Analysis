@@ -26,6 +26,7 @@ Looking at average fare per ride, the highest average comes from Rural cities ($
 When looking at average fare per driver, a similar trend occurs as seen in average fare per ride, where the highest average comes from Rural cities ($55.49) and decreases from Suburban ($39.50) to Urban ($16.57). This results from the stark difference in number of drivers per city type.
 
 
+
 ![Line_Chart](https://github.com/Aleahkita/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 Looking at the line chart of total fare by city type, throughout the span of January through the end of April, there are similar patterns between city type that we see from looking at the summary DataFrame. Total fare increases from Rural to Suburban to Urban and is shown consistently in that order when compared weekly. 
